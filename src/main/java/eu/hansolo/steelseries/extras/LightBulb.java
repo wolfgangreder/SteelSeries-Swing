@@ -59,7 +59,7 @@ import javax.swing.SwingUtilities;
 import javax.swing.border.Border;
 
 /**
- * @author Gerrit Grunwald <han.solo at muenster.de>
+ * @author Gerrit Grunwald &gt;han.solo at muenster.de&lt;
  */
 public class LightBulb extends JComponent {
     public static final String STATE_PROPERTY = "state";

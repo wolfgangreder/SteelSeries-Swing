@@ -46,7 +46,7 @@ import java.util.List;
 
 
 /**
- * @author Gerrit Grunwald <han.solo at muenster.de>
+ * @author Gerrit Grunwald &gt;han.solo at muenster.de&lt;
  */
 public enum TickmarkImageFactory {
     // <editor-fold defaultstate="collapsed" desc="Variable declarations">

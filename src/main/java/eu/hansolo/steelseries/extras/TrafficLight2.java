@@ -57,7 +57,7 @@ import javax.swing.Timer;
 
 /**
  *
- * @author Gerrit Grunwald <han.solo at muenster.de>
+ * @author Gerrit Grunwald &gt;han.solo at muenster.de&lt;
  */
 public class TrafficLight2 extends JComponent implements ActionListener {
     public static final String RED_PROPERTY = "red";

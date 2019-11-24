@@ -28,7 +28,7 @@
 package eu.hansolo.steelseries.extras;
 
 /**
- * @author Gerrit Grunwald <han.solo at muenster.de>
+ * @author Gerrit Grunwald &gt;han.solo at muenster.de&lt;
  */
 public class BatteryBeanInfo extends java.beans.SimpleBeanInfo {
 

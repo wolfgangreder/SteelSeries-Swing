@@ -49,7 +49,7 @@ import javax.swing.JComponent;
 import javax.swing.border.Border;
 
 /**
- * @author Gerrit Grunwald <han.solo at muenster.de>
+ * @author Gerrit Grunwald &gt;han.solo at muenster.de&lt;
  */
 public class Battery extends JComponent {
     // <editor-fold defaultstate="collapsed" desc="Variable declaration">

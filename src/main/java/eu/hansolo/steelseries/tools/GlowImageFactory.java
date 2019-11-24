@@ -44,7 +44,7 @@ import java.awt.image.BufferedImage;
 
 
 /**
- * @author Gerrit Grunwald <han.solo at muenster.de>
+ * @author Gerrit Grunwald &gt;han.solo at muenster.de&lt;
  */
 public enum GlowImageFactory {
     INSTANCE;

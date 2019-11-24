@@ -35,7 +35,7 @@ import java.util.ArrayList;
 
 
 /**
- * @author Gerrit Grunwald <han.solo at muenster.de>
+ * @author Gerrit Grunwald &gt;han.solo at muenster.de&lt;
  */
 public enum Scaler {
 

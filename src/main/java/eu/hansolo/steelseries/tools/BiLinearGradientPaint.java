@@ -42,7 +42,7 @@ import java.awt.image.WritableRaster;
 
 
 /**
- * @author Gerrit Grunwald <han.solo at muenster.de>
+ * @author Gerrit Grunwald &gt;han.solo at muenster.de&lt;
  */
 public final class BiLinearGradientPaint implements Paint {
 
