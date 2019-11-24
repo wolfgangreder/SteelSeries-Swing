@@ -401,6 +401,26 @@ public class Led extends JComponent
     }
   }
 
+  public void setLedBlinking(boolean blink,
+                             boolean ledOn)
+  {
+    if (ledBlinking == blink) {
+      return;
+    }
+    ledBlinking = blink;
+    if (ledBlinking) {
+      if (blinkTimer != null) {
+        blinkTimer.addActionListener(onBlinkAction);
+      }
+    } else {
+      if (blinkTimer != null) {
+        blinkTimer.removeActionListener(onBlinkAction);
+      }
+      setLedOn(ledOn);
+    }
+
+  }
+
   public BlinkTimer getBlinkTimer()
   {
     return blinkTimer;
